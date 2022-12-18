@@ -1,5 +1,5 @@
 #include <stdio.h>
 main()
 {
-  print("hello,world\n");
+  print("hello,phongsiri wilawan\n");
 }
